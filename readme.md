@@ -1,4 +1,4 @@
-# Laravel 5.1 Beauty update to 5.4
+# Laravel 5.4 Beauty update
 
 A simple, clean and beautiful blogging application origanly written in Laravel 5.1.
 this is the same  only updated to 5.4.
